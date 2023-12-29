@@ -55,6 +55,10 @@
         width: 22rem;
 
     }
+
+    main header input {
+        width: 20.4375rem;
+    }
     
     main .box {
         width: 23.4375rem;
